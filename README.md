@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MOINUDDIN-SAIYED
+- 👀 I’m interested in ...Web development and app designing
+- 🌱 I’m currently learning ... Bachelor of Computer Science at University of Regina
